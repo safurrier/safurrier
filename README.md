@@ -7,7 +7,7 @@ Experienced data scientist focused on applied, end-to-end machine learning. Impl
 Currently an ML data scientist at Discord.  
 
 - 🔭 I’m currently working on using ML to make things better at Discord. 
-- 🌱 I’m currently learning MLOps best practices and applying ML. Also the latest and greatest in the NLP space, particularly HuggingFace + Sentence Transformers. Getting sucked into the generative art space with things like Stable Diffusion. 
+- 🌱 Implementing MLOps best practices and building LLM applications. 
 - 📫 How to reach me: safurrier@gmail.com
 - 😄 Pronouns: He/Him
 
