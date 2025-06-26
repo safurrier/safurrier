@@ -19,4 +19,6 @@ While you're here, enjoy this LLM generated ASCII art of a robot dunking a baske
 ```
 
 ### Important info about me
-<img src="about-me-import-info.png" alt="Important info about me" style="filter: hue-rotate(90deg);">
+<img src="about-me-important-info.png" alt="Important info about me" style="filter: hue-rotate(90deg);">
+
+
